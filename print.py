@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 print("mainmain")
-=======
 print("mainsideside")
->>>>>>> side
 print(2)
 print(3)
 print(4)
